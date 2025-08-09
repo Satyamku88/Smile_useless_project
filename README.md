@@ -1,4 +1,4 @@
-# ​ Smile Snap (a.k.a. Smile Useless Project)
+# ​ Smile Snap (Smile Useless Project)
 
 **Smile Snap** is the most delightful nonsense you'll ever install—a smile-scoring app that tracks your daily grins, generates goofy certificates, and lets you challenge friends to beat your best *smile score*.
 
@@ -26,7 +26,7 @@
 - **Frontend:** Next.js with Tailwind CSS (TypeScript)
 - **Face Detection:** face-api.js (with fallback)
 - **Data Storage:** Browser `localStorage` (no backend required for demo)
-- **Deployment:** Vercel (see [live demo](https://smile-useless-project.vercel.app))
+- **Deployment:** Vercel (see [live demo](https://smile-useless-project-git-main-satyam-kumar-kasyaps-projects.vercel.app/))
 
 ---
 
