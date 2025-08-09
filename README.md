@@ -1,4 +1,5 @@
 # ​ Smile Snap (Smile Useless Project)
+- **Deployment:** Vercel (see [live demo](https://smile-useless-project.vercel.app/))
 
 **Smile Snap** is the most delightful nonsense you'll ever install—a smile-scoring app that tracks your daily grins, generates goofy certificates, and lets you challenge friends to beat your best *smile score*.
 
