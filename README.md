@@ -55,7 +55,10 @@ All contributions are welcome as long as they don’t make the product *useful*.
 
 ##  ScreenShots
 
-This isn’t about utility—it’s about joy, humor, and turning something as simple as a smile into a playful competition with friends. It’s a reminder that fun can be meaningless... and that’s okay.
+![.](img1.png)
+![.](img2.png)
+![.](img3.png)
+![.](friend-challenge.png)
 
 ---
 
