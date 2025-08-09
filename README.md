@@ -26,7 +26,7 @@
 - **Frontend:** Next.js with Tailwind CSS (TypeScript)
 - **Face Detection:** face-api.js (with fallback)
 - **Data Storage:** Browser `localStorage` (no backend required for demo)
-- **Deployment:** Vercel (see [live demo](https://smile-useless-project-git-main-satyam-kumar-kasyaps-projects.vercel.app/))
+- **Deployment:** Vercel (see [live demo](https://smile-useless-project.vercel.app/))
 
 ---
 
